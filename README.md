@@ -22,3 +22,6 @@ arch.
 
 it has been uploaded for better version control and because i would appreciate some help in learning both python and github and 
 with guidance on where to go from here.
+
+EDIT #1: there is a simple framework being made for level generation. its going to be merged into the main script once it is done.
+it is currently called level_gen_test.py and has some simple methods for making a 32x32 level with floors.
